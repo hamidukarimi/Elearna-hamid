@@ -83,39 +83,18 @@ function Hero() {
             Lorem ipsum dolor sit amet consectetur. Gravida enim risus
             sollicitudin mauris tincidunt commodo ornare.
           </p>
-          <button
+         
+          <a href="https://hkarimi.vercel.app/" target"_blank">
+         <button
             data-aos="fade-up"
             className="bg-main-color-1 text-white px-3 py-3 md:py-2 md:px-10 border-[1px] lg:hover:scale-90 duration-500 rounded-md text:md md:text-lg"
           >
             Get Started
           </button>
+        </a>
         </div>
       </div>
-      {/* <div className="w-[100%] px-10 pt-20 pb-10 bg-main-color-3">
-        <h1 className="text-center mb-12 font-semibold">
-          Learn from 350+ leading universities and companies with us
-        </h1>
-        <Slider {...settings} className="flex">
-          <div className="">
-            <img src={logo1} className="" alt="" />
-          </div>
-          <div>
-            <img src={logo2} className="" alt="" />
-          </div>
-          <div>
-            <img src={logo3} className="" alt="" />
-          </div>
-          <div>
-            <img src={logo4} className="" alt="" />
-          </div>
-          <div>
-            <img src={logo5} className="" alt="" />
-          </div>
-          <div>
-            <img src={logo6} className="" alt="" />
-          </div>
-        </Slider>
-      </div> */}
+     
       <div
         data-aos="fade-up"
         className="w-[100%] px-10 pt-20 pb-10 bg-main-color-3"
