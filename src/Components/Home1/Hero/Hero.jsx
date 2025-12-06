@@ -84,14 +84,15 @@ function Hero() {
             sollicitudin mauris tincidunt commodo ornare.
           </p>
          
-          <a href="https://hkarimi.vercel.app/" target"_blank">
-         <button
-            data-aos="fade-up"
-            className="bg-main-color-1 text-white px-3 py-3 md:py-2 md:px-10 border-[1px] lg:hover:scale-90 duration-500 rounded-md text:md md:text-lg"
-          >
-            Get Started
-          </button>
-        </a>
+          <a href="https://hkarimi.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <button
+    data-aos="fade-up"
+    className="bg-main-color-1 text-white px-3 py-3 md:py-2 md:px-10 border-[1px] lg:hover:scale-90 duration-500 rounded-md text:md md:text-lg"
+  >
+    Get Started
+  </button>
+</a>
+
         </div>
       </div>
      
